@@ -161,7 +161,7 @@ Special handling was required for **percentage values**, as they might be return
 
 ### 📊 Result Bar Plot
 
-![Execution and Program Accuracy Bar Plot](./assets/AccuracyBarPlot.png)
+![Execution and Program Accuracy Bar Plot](./Assets/AccuracyBarPlot.png)
 
 
 
@@ -202,7 +202,7 @@ Both approaches achieved the same computation but structure their operations dif
 
 ## 🔍 Insight on Qwen2.5-14B
 
-![Execution and Program Accuracy Bar Plot](./assets/programsteps.png)
+![Execution Accuracy by Program Steps](./Assets/programsteps.png)
 
 Interestingly, Qwen2.5-14B:
 
