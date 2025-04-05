@@ -202,6 +202,8 @@ Both approaches achieved the same computation but structure their operations dif
 
 ## 🔍 Insight on Qwen2.5-14B
 
+![Execution and Program Accuracy Bar Plot](./assets/programsteps.png)
+
 Interestingly, Qwen2.5-14B:
 
 - Struggled with **single-step** questions — indicating **limited domain knowledge**
